@@ -1,0 +1,8 @@
+# Ignore .env file for sensitive data
+.env
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore system files
+.DS_Store
