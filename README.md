@@ -34,7 +34,7 @@ To set up this project, ensure you have the following:
    cd RedditAPI_AWS_airflow_ETL
 
 2. **Create and Configure the .env File**:
-**Create a .env file in the project directory with the following environment variables:**
+- **Create a .env file in the project directory with the following environment variables:**
    ```bash
    APP_ID=your_reddit_app_id
    SECRET_ID=your_reddit_secret_id
