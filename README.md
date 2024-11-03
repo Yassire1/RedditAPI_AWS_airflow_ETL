@@ -32,3 +32,17 @@ To set up this project, ensure you have the following:
    ```bash
    git clone https://github.com/Yassire1/RedditAPI_AWS_airflow_ETL.git
    cd RedditAPI_AWS_airflow_ETL
+
+2. **Create and Configure the .env File**:
+**Create a .env file in the project directory with the following environment variables:**
+   ```bash
+   APP_ID=your_reddit_app_id
+   SECRET_ID=your_reddit_secret_id
+   REDDIT_USERNAME=your_reddit_username
+   REDDIT_PASSWORD=your_reddit_password
+   AWS_ACCESS_KEY_ID=your_aws_access_key_id
+   AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
+   S3_BUCKET_NAME=your_s3_bucket_name
+3. **Install Required Python Packages** :
+   ```bash
+   pip install -r requirements.txt
