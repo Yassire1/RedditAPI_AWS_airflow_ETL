@@ -7,8 +7,6 @@ This project extracts data from the "dataengineering" subreddit, filters and loa
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-- [Airflow DAG Configuration](#airflow-dag-configuration)
-- [License](#license)
 
 ## Project Overview
 
